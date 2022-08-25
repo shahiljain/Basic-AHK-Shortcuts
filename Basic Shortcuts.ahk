@@ -8,7 +8,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;This is your keyword, you can switch it to any thing
 ::@email1::
 ; This is the word you want to show up when you press the keyword
-SendInput input your email id here
+SendInput your email here
 return
 
 ;Shortcut Keys
